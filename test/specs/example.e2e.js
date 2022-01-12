@@ -1,3 +1,4 @@
+const DesktopPage = require('../pageobjects/desktopPage');
 const LoginPage = require('../pageobjects/login.page');
 const SecurePage = require('../pageobjects/secure.page');
 
